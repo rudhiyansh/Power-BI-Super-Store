@@ -20,8 +20,7 @@ This project involves an end-to-end Enterprise Business Intelligence solution de
 
 ## 🎥 Video Walkthrough (Google Drive)
 
-* 🔗 **Google Drive Video Link:** **[▶️ Click Here to Watch Full HD Video Presentation on Google Drive](https://drive.google.com/file/d/1OfwfkO3EEnDqQ8PJcByM8rA1lVt6q9OT/view?usp=sharing)** *(Paste your Google Drive shareable link here)*
-* 📁 **Local Video File:** [Superstore_Sales_Presentation_Edited.mp4](Superstore_Sales_Presentation_Edited.mp4) *(Saved locally in this repository, 22.5 MB)*
+* 🔗 **Google Drive Video Link:** **[▶️ Click Here to Watch Full HD Video Presentation on Google Drive](https://drive.google.com/file/d/1OfwfkO3EEnDqQ8PJcByM8rA1lVt6q9OT/view?usp=sharing)**
 * **Format:** MP4 (1080p Full HD · 1920×1080 · 60 FPS)
 * **Duration:** **4 Minutes 30 Seconds (270 Seconds)** *(Crisp, punchy, zero dead air)*
 * **Visual Presentation:** Clean full-screen dashboard navigation with high-resolution visual rendering of KPI counters, category sales distributions, regional profit contributions, and Power Query applied steps.
