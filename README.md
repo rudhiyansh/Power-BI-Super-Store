@@ -8,24 +8,25 @@
 ---
 
 ## 📌 Project Overview
-* **Institute:** Red & White Skill Education
-* **Subject:** Power BI Desktop & Business Intelligence
-* **Project Title:** Practical Report 1 (PR 1) — Superstore Sales Analytics
-* **Author / Student:** Sandesh
-* **Submission Date:** November 2026
+* **Project Title:** Superstore Sales Analytics — End-to-End Power BI Dashboard
+* **Author / Data Analyst:** Rudhiyansh Sandanshiv
+* **Domain:** Retail & Commercial E-Commerce Analytics
+* **Tools & Environment:** Microsoft Power BI Desktop • Power Query (M) • DAX • Excel
+* **Date:** November 2026
 
 This project involves an end-to-end Enterprise Business Intelligence solution developed using **Power BI Desktop**. Starting from connecting to the raw **Sample Superstore Sales Dataset**, applying advanced data cleaning and transformations in **Power Query Editor**, modeling data with custom DAX measures, applying corporate brand formatting (`#CC0000` Red & `#4A4A4A` Charcoal), configuring interactive slicers, cross-filtering edit interactions, and building an executive 2-page report aligned strictly with university standards.
 
 ---
 
-## 🎥 Video Walkthrough
+## 🎥 Video Walkthrough (Google Drive)
 
-🎬 **Presentation Video:** [`Superstore_Sales_Presentation_Edited.mp4`](Superstore_Sales_Presentation_Edited.mp4)  
+* 🔗 **Google Drive Video Link:** **[▶️ Click Here to Watch Full HD Video Presentation on Google Drive](https://drive.google.com/file/d/YOUR_GOOGLE_DRIVE_VIDEO_LINK_HERE/view?usp=sharing)** *(Paste your Google Drive shareable link here)*
+* 📁 **Local Video File:** [Superstore_Sales_Presentation_Edited.mp4](Superstore_Sales_Presentation_Edited.mp4) *(Saved locally in this repository, 22.5 MB)*
 * **Format:** MP4 (1080p Full HD · 1920×1080 · 60 FPS)
 * **Duration:** **4 Minutes 30 Seconds (270 Seconds)** *(Crisp, punchy, zero dead air)*
 * **Visual Presentation:** Clean full-screen dashboard navigation with high-resolution visual rendering of KPI counters, category sales distributions, regional profit contributions, and Power Query applied steps.
 * **Audio & Voice Clarity:** Studio-mastered voice narration normalized to broadcast standards (-16 LUFS, EBU R128) with background ambient noise reduction.
-* **Video Scope:** Covers all 13 core analytical tasks: data ingestion, Power Query M transformations, data modeling, visual construction, brand styling, slicer synchronization, and executive business insights.
+* **Presentation Scope:** Complete walkthrough covering data cleaning in Power Query, financial KPIs (.30M sales,  profit), regional performance, category margin paradox, and loss-leader recommendations.
 
 ---
 
@@ -281,7 +282,6 @@ DIVIDE(
 ---
 
 ## 👨‍💻 Author & Project Attribution
-* **Student Name:** Sandesh
-* **Institute:** Red & White Skill Education
-* **Course:** Professional Data Analytics & Business Intelligence
-* **Project Status:** Practical Report 1 Completed & Verified
+* **Author / Data Analyst:** Rudhiyansh Sandanshiv
+* **Specialization:** Business Intelligence • Data Modeling • Dashboard Design
+* **Project Status:** Production-Ready & Verified
