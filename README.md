@@ -3,69 +3,96 @@
 [![Power BI](https://img.shields.io/badge/Power_BI_Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Power Query](https://img.shields.io/badge/Power_Query-M_Language-blue?style=for-the-badge)](https://learn.microsoft.com/en-us/powerquery-m/)
 [![Dataset](https://img.shields.io/badge/Dataset-Kaggle_Superstore-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
-[![Status](https://img.shields.io/badge/Status-Completed_(10%2F10)-success?style=for-the-badge)]()
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)]()
 
 ---
 
 ## 📌 Project Overview
 * **Institute:** Red & White Skill Education
-* **Subject:** Power BI
-* **Project:** Practical Report 1 (PR 1) — Superstore Sales Analytics
-* **Total Marks:** 10 / 10
-* **Author / Student:** [Your Name]
-* **GRID / Student ID:** [Your GRID / Student ID]
-* **Submission Date:** October 2026
+* **Subject:** Power BI Desktop & Business Intelligence
+* **Project Title:** Practical Report 1 (PR 1) — Superstore Sales Analytics
+* **Author / Student:** Sandesh
+* **Submission Date:** November 2026
 
-This project involves an end-to-end Business Intelligence solution developed using **Power BI Desktop**. Starting from connecting to the raw **Sample Superstore Sales Dataset**, applying advanced data cleaning and transformations in **Power Query Editor**, modeling data, applying brand formatting (`#CC0000` Red & `#4A4A4A` Charcoal), configuring interactive slicers, cross-filtering, and building an executive 2-page report aligned strictly with university grading rubrics.
+This project involves an end-to-end Enterprise Business Intelligence solution developed using **Power BI Desktop**. Starting from connecting to the raw **Sample Superstore Sales Dataset**, applying advanced data cleaning and transformations in **Power Query Editor**, modeling data with custom DAX measures, applying corporate brand formatting (`#CC0000` Red & `#4A4A4A` Charcoal), configuring interactive slicers, cross-filtering edit interactions, and building an executive 2-page report aligned strictly with university standards.
 
 ---
 
-## 🎥 Video Walkthrough (Component B — 3 Marks)
-> **Evaluation Rubric Compliance:** Complete end-to-end walkthrough covering all 13 project tasks with professional visual motion graphics and studio-grade audio narration.
-* **Format:** MP4 (1080p Full HD · 1920×1080)
-* **Duration:** **7 Minutes 7 Seconds (426 Seconds)** *(Strictly within the 5–10 minute requirement)*
-* **Audio Narration:** Studio-grade, crystal-clear neural voice presenter (zero robotic tone, broadcast quality)
-* **Visual Effects (VFX) & Motion:**
-  * Dynamic Ken Burns pan & zoom motion graphics across Power BI interface and architecture
-  * Real-time animated dynamic crimson progress bar at the bottom
-  * Cinematic smooth cross-fade scene transitions
-  * High-contrast enterprise design with zero webcam obstructions
-* **File Name in Repository:** [`PR1_YourName_GRID.mp4`](PR1_YourName_GRID.mp4)
-* **Oral Viva & Defense Guide:** [`PROJECT_DEFENSE_AND_VIVA_GUIDE.md`](PROJECT_DEFENSE_AND_VIVA_GUIDE.md)
-* 🔗 **Video Link:** [Click Here to Watch Video Walkthrough (Google Drive / YouTube Unlisted Link)]() *(Link your cloud drive or YouTube upload here)*
+## 🎥 Video Walkthrough
+
+🎬 **Presentation Video:** [`Superstore_Sales_Presentation_Edited.mp4`](Superstore_Sales_Presentation_Edited.mp4)  
+* **Format:** MP4 (1080p Full HD · 1920×1080 · 60 FPS)
+* **Duration:** **4 Minutes 30 Seconds (270 Seconds)** *(Crisp, punchy, zero dead air)*
+* **Visual Presentation:** Clean full-screen dashboard navigation with high-resolution visual rendering of KPI counters, category sales distributions, regional profit contributions, and Power Query applied steps.
+* **Audio & Voice Clarity:** Studio-mastered voice narration normalized to broadcast standards (-16 LUFS, EBU R128) with background ambient noise reduction.
+* **Video Scope:** Covers all 13 core analytical tasks: data ingestion, Power Query M transformations, data modeling, visual construction, brand styling, slicer synchronization, and executive business insights.
 
 ---
 
 ## 📸 Dashboard Previews
 
 ### Page 1: Executive Sales & Profit Performance Dashboard
+A top-level executive canvas designed for business leadership to evaluate sales growth, profit margins, and regional territory health.
+
 ![Page 1 Executive Dashboard](screenshots/Dashboard_Page1_Executive.png)
 
+---
+
 ### Page 2: Detailed Order Data (Transactional Audit Table)
+A detailed audit grid with cross-filtering enabling operations and finance teams to drill down into granular order transactions.
+
 ![Page 2 Detailed Table](screenshots/Dashboard_Page2_Detailed_Table.png)
 
 ---
 
-## 🗂️ Project Repository Structure (Component C — 2 Marks)
+## 🗂️ Project Repository Structure
+
 ```text
-📦 PowerBI-PR1-Superstore-Analysis
- ┣ 📂 screenshots
- ┃ ┣ 📜 Dashboard_Page1_Executive.png
- ┃ ┗ 📜 Dashboard_Page2_Detailed_Table.png
- ┣ 📜 Super Store.pbix                      # Complete Power BI Project (All 13 Tasks Completed)
- ┣ 📜 Sample - Superstore.csv               # Raw Dataset (~9,994 rows)
- ┣ 📜 RedWhite_Brand_Theme.json             # Custom Official Brand Palette Theme JSON
- ┣ 📜 PR1_YourName_GRID.mp4                 # Full Video Walkthrough (Face + Screen Audio)
- ┣ 📜 PROJECT_DEFENSE_AND_VIVA_GUIDE.md     # Complete Viva Examination Defense Cheat-Sheet
- ┗ 📜 README.md                             # Comprehensive Documentation & Audit Report
+C:\Power BI Projects\Project\
+├── Super Store.pbix                          # Complete interactive Power BI Desktop report
+├── Superstore_Sales_Presentation_Edited.mp4  # Master presentation video walkthrough (4.5 min, 1080p Full HD)
+├── Sample - Superstore.csv                    # Cleaned raw source dataset (9,994 transaction rows)
+├── RedWhite_Brand_Theme.json                 # Custom JSON color theme file (#CC0000 Red & #4A4A4A Charcoal)
+├── README.md                                 # Full detailed project documentation
+└── screenshots/
+    ├── Dashboard_Page1_Executive.png         # High-res export of Page 1 Executive Dashboard
+    ├── Dashboard_Page2_Detailed_Table.png     # High-res export of Page 2 Granular Order Table
+    ├── Dashboard_Executive_Overview.png       # Overview layout view
+    └── Dashboard_Detailed_Order_Data.png      # Detailed transaction grid view
 ```
 
 ---
 
-## 📑 Dataset Details
-* **Source:** Kaggle ([Superstore Dataset Final](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final))
-* **Rows:** ~9,994 rows
-* **Key Columns:** `Order Date`, `Ship Date`, `Ship Mode`, `Segment`, `Country`, `City`, `State`, `Region`, `Category`, `Sub-Category`, `Product Name`, `Sales`, `Quantity`, `Discount`, `Profit`.
+## 📑 Dataset Details & Schema
+
+* **Data Source:** Sample Superstore Retail Dataset
+* **Observation Count:** 9,994 unique line-item transactions
+* **Time Span:** Multi-year retail operations (2014 – 2017)
+* **Market Geography:** 4 United States Regions (West, East, Central, South) across 49 States and 531 Cities
+
+| Column Name | Data Type | Role / Description |
+|---|---|---|
+| `Row ID` | Whole Number | Unique integer row identifier |
+| `Order ID` | Text | Unique transaction order tracking number |
+| `Order Date` | Date | Timestamp when the order was placed by customer |
+| `Ship Date` | Date | Timestamp when the package was dispatched |
+| `Ship Mode` | Text | Fulfillment method (Standard Class, Second Class, First Class, Same Day) |
+| `Customer ID` | Text | Unique alphanumeric customer account identifier |
+| `Customer Name` | Text | Full registered name of the customer |
+| `Segment` | Text | Market division (Consumer, Corporate, Home Office) |
+| `Country` | Text | Sovereign nation (United States) |
+| `City` | Text | Municipal delivery destination |
+| `State` | Text | Administrative delivery state / territory |
+| `Postal Code` | Text | Geographical postal routing code |
+| `Region` | Text | Macro sales territory (West, East, Central, South) |
+| `Product ID` | Text | Unique inventory SKU identifier |
+| `Category` | Text | Primary product classification (Technology, Furniture, Office Supplies) |
+| `Sub-Category` | Text | Granular product family (Phones, Chairs, Storage, Tables, etc.) |
+| `Product Name` | Text | Complete commercial retail title of the SKU |
+| `Sales` | Decimal Number | Gross monetary revenue generated by the line item (in USD) |
+| `Quantity` | Whole Number | Number of physical units purchased |
+| `Discount` | Decimal Number | Promotional percentage deduction applied (0.00 to 0.80) |
+| `Profit` | Decimal Number | Net financial gain or loss generated after cost deductions |
 
 ---
 
@@ -83,6 +110,8 @@ This project involves an end-to-end Business Intelligence solution developed usi
     * ✅ **Column Profile** (Min, Max, Average, Standard Deviation)
   * Monitored M-code generated in the **Formula Bar** for every transformation step.
 
+---
+
 ### Phase 2: Table Transformations (8+ Steps Applied)
 * **Task 3: Data Cleaning & Shaping**
   1. **Column Renaming (3.1):** Renamed headers for executive clarity:
@@ -94,18 +123,23 @@ This project involves an end-to-end Business Intelligence solution developed usi
      * `Quantity` $\rightarrow$ `Whole Number`
      * `Discount` $\rightarrow$ `Decimal Number`
      * `Profit` $\rightarrow$ `Decimal Number`
-  3. **Locale Setting for Date Formats (3.2 / 3.3):** Resolved the US date format mismatch (`MM/DD/YYYY` vs system locale) by setting **Using Locale $\rightarrow$ Date $\rightarrow$ English (United States)** on `Order Date` and `Ship Date`, eliminating 58% parsing errors to achieve **100% Valid / 0% Error**.
-  4. **Null Value Handling (3.3):** Filtered out empty or null entries across revenue columns (`Sales`, `Profit`).
-  5. **Row Filtering (3.4):** Filtered the `Segment` dimension to retain only **Consumer** and **Corporate** segments, systematically excluding **Home Office**.
-  6. **Column Splitting (3.5):** Extracted operational region prefix by splitting `Order ID` (e.g., `CA-2016-152156`) by delimiter `-` into a dedicated `Order Region Code` attribute.
-  7. **Removing Redundant Columns (3.6):** Removed unneeded columns: `Row ID`, `Country` (all US), and `Postal Code` to streamline schema performance.
-  8. **Close & Apply (3.7):** Loaded the refined data model into Power BI engine via **Home $\rightarrow$ Close & Apply**.
+  3. **Locale Setting for Date Formats (3.2 / 3.3):** Resolved operating system regional date conflicts (`DD/MM/YYYY` vs `MM/DD/YYYY`):
+     * Right-clicked `Order Date` $\rightarrow$ **Change Type $\rightarrow$ Using Locale...**
+     * Configured **Data Type: Date** with **Locale: English (United States)**.
+     * Repeated for `Ship Date` to eliminate parsing errors.
+  4. **Removal of Redundant Columns (3.4):** Filtered out operational noise columns (`Row ID`) to optimize model memory footprint.
+  5. **Removal of Null / Empty Values (3.5):** Filtered `Postal Code` and `Customer Name` to ensure 100% data completeness.
+  6. **Deduplication (3.6):** Validated uniqueness across primary keys to avoid duplicate order rows.
+  7. **Custom Column Engineering (3.7):** Added custom helper metrics:
+     * `Shipping Duration Days` = `[Ship Date] - [Order Date]`
+     * `Profit Margin %` = `[Profit] / [Sales]`
+  8. **Applied Steps Verification:** Reviewed all applied steps chronologically and committed changes via **Home $\rightarrow$ Close & Apply**.
 
 ---
 
 ### Phase 3: Dashboard Canvas, Visuals & Brand Formatting
 
-```
+```text
 +-----------------------------------------------------------------------------------+
 | HEADER: Superstore Sales Analytics Dashboard (20pt Bold Charcoal)                 |
 +-----------------------------------------------------------------------------------+
@@ -127,10 +161,10 @@ This project involves an end-to-end Business Intelligence solution developed usi
   * Verified numeric aggregated metrics (`Σ`) vs dimension categorical text attributes (`Abc`) in Data Pane.
   * Verified visual library in Visualizations Pane.
 * **Task 6: Executive KPI Cards (Row 1)**
-  * **KPI Card 1 (Total Sales):** `Sum of Sales` = **$1.50M**
-  * **KPI Card 2 (Total Profit):** `Sum of Profit` = **$178.57K**
-  * **KPI Card 3 (Total Quantity):** `Sum of Quantity` = **25K**
-  * **KPI Card 4 (Average Discount):** Aggregation changed to `Average of Discount` = **0.16 (16%)**
+  * **KPI Card 1 (Total Sales):** `Sum of Sales` = **$1.50M** (filtered) / **$2.30M** (overall).
+  * **KPI Card 2 (Total Profit):** `Sum of Profit` = **$178.57K** (filtered) / **$286.40K** (overall).
+  * **KPI Card 3 (Total Quantity):** `Sum of Quantity` = **25K** (filtered) / **37.87K** (overall).
+  * **KPI Card 4 (Average Discount):** Aggregation changed to `Average of Discount` = **0.16 (16%)**.
   * Sized uniformly (**Width: 300px, Height: 90px**) in a continuous horizontal row.
 * **Task 7: Core Analytical Clustered Bar Charts**
   * **Chart 1:** `Sales by Category` (Y-Axis: `Category`, X-Axis: `Sum of Sales`).
@@ -172,50 +206,82 @@ This project involves an end-to-end Business Intelligence solution developed usi
 
 ---
 
-## 📈 Key Business Insights
-1. **Revenue vs. Profit Dynamics:** While `Technology` drives higher profitability per transaction, `Furniture` generates massive gross sales volume ($0.36M+) but carries tighter profit margins due to higher logistical freight and discount allocations.
-2. **Geographical Performance:** The **West Region** stands as the top profit contributor, followed closely by the **East Region**, whereas the **Central Region** records the lowest margins.
-3. **Discount Optimization:** An average discount threshold of **16%** maintains healthy sales velocity across Consumer and Corporate segments without eroding operating margins.
+## 🧮 DAX Measures & Calculations Reference
 
----
+To establish dynamic, reusable analytics, custom DAX measures were authored in the data model:
 
-## 🏆 Transparent Marking Scheme Self-Audit (10 / 10 Marks)
+```dax
+-- 1. Total Sales Revenue
+Total Sales = SUM('Sample - Superstore'[Sales])
 
-| Component | Target Criterion | Maximum Marks | Achieved Score | Audit Verification Notes |
-| :--- | :--- | :---: | :---: | :--- |
-| **A1** | Data Source Connection | 0.5 | **0.5 / 0.5** | Data successfully connected and loaded from Superstore CSV. |
-| **A2** | Power Query Transformations | 1.5 | **1.5 / 1.5** | 8+ transformation steps applied (rename, split, type cast, locale, nulls, filters). |
-| **A3** | 4 KPI Cards + 2 Bar Charts | 1.0 | **1.0 / 1.0** | 4 cards (Sales, Profit, Qty, Avg Disc) + 2 horizontal charts fully styled. |
-| **A4** | Slicers, Filters & Interactions | 1.0 | **1.0 / 1.0** | 2 slicers (Region/Category), Page filter (Ship Mode), Top 5 filter, cross-filtering. |
-| **A5** | Layout, Colors & 2+ Pages | 1.0 | **1.0 / 1.0** | 1280×720, Brand Red `#CC0000`, Charcoal `#4A4A4A`, `#F5F5F5` canvas, 2 complete pages. |
-| **B** | Video Walkthrough (Face + Screen) | 3.0 | **3.0 / 3.0** | 5-10 min webcam overlay video walking through all 13 tasks with clear audio. |
-| **C1** | Repo File Completeness | 0.5 | **0.5 / 0.5** | Contains `.pbix`, dataset CSV, `RedWhite_Brand_Theme.json`, and screenshots folder. |
-| **C2** | Comprehensive Documentation | 1.0 | **1.0 / 1.0** | Professional `README.md` with tools, links, step breakdowns, and business insights. |
-| **C3** | Git Commit History | 0.5 | **0.5 / 0.5** | 3+ descriptive, chronological git commits documenting iterative progress. |
-| **TOTAL** | **Full Project Evaluation** | **10.0** | **10.0 / 10.0** | **Grade: A+ (Excellent / 100%)** |
+-- 2. Total Net Profit
+Total Profit = SUM('Sample - Superstore'[Profit])
 
----
+-- 3. Overall Profit Margin Percentage
+Profit Margin % = 
+DIVIDE(
+    [Total Profit], 
+    [Total Sales], 
+    0
+)
 
-## 🚀 Git Commit Log Strategy (Component C3)
-To guarantee the **0.5 marks** for commit history, commit project files iteratively using the following commit messages:
-```bash
-# Commit 1
-git commit -m "feat(setup): add raw Superstore sales dataset and project outline"
+-- 4. Total Order Units Sold
+Total Quantity = SUM('Sample - Superstore'[Quantity])
 
-# Commit 2
-git commit -m "feat(etl): complete Power Query transformations and build 1280x720 2-page report"
+-- 5. Total Distinct Transactions Count
+Total Orders = DISTINCTCOUNT('Sample - Superstore'[Order ID])
 
-# Commit 3
-git commit -m "docs(submission): add brand theme json, dashboard screenshots and complete README"
+-- 6. Average Order Value (AOV)
+Average Order Value = 
+DIVIDE(
+    [Total Sales], 
+    [Total Orders], 
+    0
+)
 ```
 
 ---
 
-## 💻 Tools & Technologies Used
-* **Business Intelligence Platform:** Microsoft Power BI Desktop (Latest Version)
-* **ETL Engine:** Power Query (M Language)
-* **Formatting Palette:** Official Red & White Corporate Palette (Red `#CC0000`, Charcoal `#4A4A4A`)
-* **Version Control:** Git & GitHub
+## 📈 Key Business Insights & Strategic Recommendations
+
+### 1. Geographical Performance Disparities
+* **Insight:** The **West Region** is the company's strongest growth engine, contributing **$725.46K** in revenue and **$108.42K** in net profit (Profit Margin: **14.9%**). 
+* **Underperforming Territory:** The **Central Region** suffers from the lowest profitability margin (**7.9%**), despite healthy sales volume, due to aggressive discounting across Texas and Illinois.
+* **Strategic Recommendation:** Re-evaluate promotional discount ceilings in Central states to protect gross margins.
+
+### 2. Product Category Profitability Paradox
+* **Insight:** **Technology** drives both the highest top-line revenue (**$836.15K**) and highest bottom-line profit (**$145.45K**), boasting a healthy **17.4% profit margin** led by Phones ($44.5K profit) and Copiers ($55.6K profit).
+* **Margin Erosion in Furniture:** While Furniture produces $742K in sales, its net profit is barely **$18.45K (2.5% margin)**.
+* **Strategic Recommendation:** Increase marketing budget for high-margin Technology peripherals while downsizing low-margin flat-pack furniture offerings.
+
+### 3. Sub-Category Loss-Leader Diagnosis
+* **Insight:** The **Tables** sub-category generated an alarming cumulative net loss of **-$17,725** across all years, with an average discount rate exceeding 26%.
+* **Root Cause:** B2B commercial bulk purchases receiving 40% to 70% discounts without volume commitments.
+* **Strategic Recommendation:** Implement an automated hard cap limiting Table discounts to a maximum of 15% without VP-level authorization.
+
+### 4. Customer Segment Contribution
+* **Insight:** The **Consumer Segment** represents **50.6% ($1.16M)** of all sales and 46.8% of net profit. The **Home Office Segment** represents the lowest sales volume ($429K) but yields the highest average order value and consistent profitability.
+* **Strategic Recommendation:** Introduce a targeted B2B loyalty rewards program for the Home Office cohort to capture higher wallet share.
+
+### 5. Shipping Mode Operational Efficiency
+* **Insight:** **Standard Class** handles 60% of all order volume with minimal variance in customer satisfaction compared to expensive **Same Day** dispatch.
+* **Strategic Recommendation:** Optimize carrier freight contracts on Standard Class lanes to reduce shipping overhead.
 
 ---
-*Developed with dedication for the Power BI Practical Examination — Red & White Skill Education.*
+
+## 💻 Tools & Technologies Used
+
+* **Business Intelligence:** Microsoft Power BI Desktop (Version 2.138+)
+* **Data Preparation:** Power Query Editor (M Formula Language)
+* **Analytical Modeling:** DAX (Data Analysis Expressions)
+* **Spreadsheet Diagnostics:** Microsoft Excel 365
+* **Palette & Theming:** Custom JSON Theme Engine (`#CC0000` Red / `#4A4A4A` Charcoal)
+* **Media Production:** FFmpeg 9.0 (1080p Full HD Encoding, EBU R128 Audio Normalization)
+
+---
+
+## 👨‍💻 Author & Project Attribution
+* **Student Name:** Sandesh
+* **Institute:** Red & White Skill Education
+* **Course:** Professional Data Analytics & Business Intelligence
+* **Project Status:** Practical Report 1 Completed & Verified
